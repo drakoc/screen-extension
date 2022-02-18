@@ -1,5 +1,3 @@
-## How to install TeamAI New Moment extension
-
 The New Moment extension adds screen recording feature to New Moment recorder.
 <br><br>
 To install the extension: 
@@ -19,5 +17,5 @@ To install the extension:
 5. Select and copy extension's ID.<br><br>
 ![Extension ID](https://drakoc.github.io/screen-extension/images/04.extension-id.jpg)
 <br><br>
-7. Go back to web app and pass the extension id in input field and use all features of Create Moment.<br><br>
+6. Go back to web app and pass the extension id in input field and use all features of Create Moment.<br><br>
 ![App entrance](https://drakoc.github.io/screen-extension/images/05.app-entrance.jpg)
