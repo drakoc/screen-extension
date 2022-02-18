@@ -1,10 +1,24 @@
 ## Welcome to GitHub Pages
 
-1. Download extenison
-2. install extension in Chrome
-3. Open Chrome in extensions
+1. Download extension from and unpack on your local drive.
 
+2. Open Chrome in extensions
 ![extension image](https://drakoc.github.io/screen-extension/images/01.url.jpg)
+
+3. Turn on Developer mode
+![Developer mode](https://drakoc.github.io/screen-extension/images/02.developer-button.jpg)
+
+4. Click 'Load unpacked' and select the folder with extension's unpacked files.
+![Load extension](https://drakoc.github.io/screen-extension/images/03.load-button.jpg)
+
+5. Select and copy extension's ID.
+![Extension ID](https://drakoc.github.io/screen-extension/images/04.extension-id.jpg)
+
+6. Go back to web app and pass the id in input field and use all features of Create Moment.
+![App entrance](https://drakoc.github.io/screen-extension/images/05.app-entrance.jpg)
+
+
+
 You can use the [editor on GitHub](https://github.com/drakoc/screen-extension/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
