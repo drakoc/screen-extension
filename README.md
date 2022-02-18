@@ -1,5 +1,5 @@
 The New Moment extension adds screen recording feature to New Moment recorder.
-<br><br>
+<br><br><br>
 To install the extension: 
 
 1. Download extension from [here](https://drakoc.github.io/screen-extension/download/team-ai-new-moment-extension.zip) and unpack files to your local drive.
