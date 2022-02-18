@@ -1,5 +1,8 @@
 ## Welcome to GitHub Pages
 
+1. Download extenison
+2. install extension in Chrome
+
 You can use the [editor on GitHub](https://github.com/drakoc/screen-extension/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
